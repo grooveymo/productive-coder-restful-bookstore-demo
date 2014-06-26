@@ -1,0 +1,6 @@
+2014-06-07 19:43:56,876 INFO  [BookstoreService] - SERVER getCustomer will return: Customer [userId=1, forename=homer, lastname=simpson, email=hsimpson@springfield.com, mobileNumber=0781 123 456, password=marge, orders=[
+ Order [orderId=0 total Order cost: 49.5, orderItems=[
+ OrderItem [item=Item [title=Release the hounds, publisher=Red Penguin, price=22.0, yearPublished=2014] Book [author=Rufus Ruff], count=2 total cost=44.0], 
+ OrderItem [item=Item [title=How to be happy, publisher=Red Penguin, price=5.5, yearPublished=2014] Book [author=Oona Appy], count=1 total cost=5.5]]], 
+ Order [orderId=1 total Order cost: 10.45, orderItems=[
+ OrderItem [item=Item [title=Dummies Guide to Dummies, publisher=Red Penguin, price=10.45, yearPublished=2014] Book [author=Man Equine], count=1 total cost=10.45]]]]]

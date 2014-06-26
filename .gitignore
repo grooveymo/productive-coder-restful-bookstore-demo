@@ -1,0 +1,27 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+!commons-io-2.4.jar
+!commons-logging-1.1.1.jar
+!httpclient-4.2.1.jar
+!httpcore-4.2.1.jar
+
+
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+#eclipse
+.metadata
+test-classes/
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+
+#gwt
+gwt-unitCache/
+RemoteSystemsTempFiles/
